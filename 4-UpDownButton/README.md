@@ -1,4 +1,4 @@
-# 4 - Up Down Buttons
+# 4 - Up Down Button
 
 ![screenshot1.png](screenshot1.png)
 
