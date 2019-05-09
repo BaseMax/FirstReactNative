@@ -2,6 +2,7 @@
 
 A sample application created using **React Native** and tested on the **Android**.
 
+![ScreenShot](screenshot1.png)
 
 ### Insatll
 
