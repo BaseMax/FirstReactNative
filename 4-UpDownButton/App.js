@@ -1,39 +1,37 @@
-/**
- * Sample React Native App
- */
+import React from 'react'
+import { View, Text, StyleSheet } from 'react-native'
 
-import React, {Component} from 'react';
-import {Platform, StyleSheet, Text, View} from 'react-native';
-
-type Props = {};
-export default class App extends Component<Props> {
-	render() {
-		return (
-			<View style={styles.container}>
-				<Text style={styles.welcome}>Welcome to App!</Text>
-				<Text style={styles.instructions}>Hey My friend!</Text>
-			</View>
-		);
-	}
+const App = () => {
+	return (
+		<View>
+			<Text style={styles.textUp}>UP</Text>
+			<Text style={styles.textDown}>DOWN</Text>
+		</View>
+	)
 }
-
-const styles = StyleSheet.create({
-	container: {
-		flex: 1,
-		justifyContent: 'center',
+const styles = StyleSheet.create ({
+	textUp: {
+		backgroundColor: 'green',
+		width: '100%',
+		textAlign: 'center',
+		borderRadius: 50,
 		alignItems: 'center',
-		backgroundColor: 'yellow',
+		marginTop: 100,
+		padding: 25,
+		fontSize: 50,
+		marginBottom: 100,
 	},
-	welcome: {
-		fontSize: 38,
+	textDown: {
+		backgroundColor: 'red',
+		width: '100%',
 		textAlign: 'center',
-		margin: 20,
-	},
-	instructions: {
-		fontSize: 25,
-		textAlign: 'center',
-		color: 'blue',
-		marginTop: 10,
-	},
-});
+		borderRadius: 50,
+		alignItems: 'center',
+		marginTop: 100,
+		padding: 25,
+		fontSize: 50,
+		marginBottom: 100,
+	}
+})
 
+export default App
