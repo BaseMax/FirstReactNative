@@ -6,6 +6,8 @@ List of episode :
 - [1-HelloWorld](1-HelloWorld)
 - [2-StyleSheet](2-StyleSheet)
 - [3-Button-OnClick](3-Button-OnClick)
+- [4-UpDownButton](4-UpDownButton)
+- [5-UpDownNumberButton](5-UpDownNumberButton)
 
 -----------
 
