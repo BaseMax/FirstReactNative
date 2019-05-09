@@ -8,12 +8,12 @@ List of episode :
 - [3-Button-OnClick](3-Button-OnClick)
 
 
-# Author(s)
+### Authors
 
 - [Max Base](https://github.com/BaseMax/)
 
 Yours name will be here if you contribute or send pull...
 
-# License
+### License
 
 FirstReactNative is licensed under the [GNU General Public License](LICENSE).
