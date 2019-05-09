@@ -20,7 +20,7 @@ https://facebook.github.io/react-native/docs/getting-started.html
 ### Run
 
 - Config your PATH System
-![ScreenShot](system-path.jpg)
+![ScreenShot](system-path.png)
 
 - Run your emulator or connect your device
 - Check device list and status. (It should was device, not offline)
