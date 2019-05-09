@@ -1,5 +1,4 @@
 import React from 'react'
-// import MyAlert from './alert.js'
 import { Text, StyleSheet } from 'react-native'
 
 const App = () => {
