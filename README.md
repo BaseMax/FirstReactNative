@@ -2,6 +2,15 @@
 
 A sample application created using **React Native** and tested on the **Android**.
 
+
+### Insatll
+
+```sh
+$ npm install -g react-native-cli
+$ react-native init FirstReactNative
+$ cd FirstReactNative
+```
+
 ### Run
 
 - Run your emulator or connect your device
