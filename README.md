@@ -12,6 +12,11 @@ $ react-native init FirstReactNative
 $ cd FirstReactNative
 ```
 
+You can read the official document about this subject.
+
+https://facebook.github.io/react-native/docs/getting-started.html
+
+
 ### Run
 
 - Run your emulator or connect your device
