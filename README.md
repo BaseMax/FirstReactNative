@@ -1,5 +1,7 @@
 # First ReactNative
 
+![logo.png](logo.png)
+
 List of episode :
 
 - [0-Init-Wellcome](0-Init-Wellcome)
