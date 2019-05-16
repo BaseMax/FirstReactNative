@@ -6,8 +6,18 @@ A sample application created using **React Native** and tested on the **Android*
 
 ### Insatll
 
+#### Windowss
+
 ```sh
 $ npm install -g react-native-cli
+$ react-native init FirstReactNative
+$ cd FirstReactNative
+```
+
+#### Linux
+
+```sh
+$ sudo npm install -g react-native-cli
 $ react-native init FirstReactNative
 $ cd FirstReactNative
 ```
