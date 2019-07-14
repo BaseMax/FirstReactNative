@@ -1,6 +1,6 @@
 # Expo
 
-Download the expo application for android at [google play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en), or [apkdl](https://apkdl.in/app/details?id=host.exp.exponent) or [here](expo.apk).
+Download the expo application for android at [google play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en), or [apkdl](https://apkdl.in/app/details?id=host.exp.exponent) or [here](host.exp.exponent_114.apk).
 
 ```
 npm install -g expo-cli
