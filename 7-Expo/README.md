@@ -1,5 +1,7 @@
 # Expo
 
+[Download the expo application for android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)
+
 ```
 npm install -g expo-cli
 expo init AwesomeProject
